@@ -179,6 +179,7 @@ Contributors:
 - Arijeet Majumdar
 - Pawel Kulecki
 - Jayesh Srivastava
+- Raj Shah
 
 ### Architecture
 
@@ -245,6 +246,7 @@ Contributors:
 - Akshat Jain
 - Ragha Vema
 - Kumar A. Anurag
+- Raj Shah
 
 ### Product Management
 
@@ -276,6 +278,7 @@ Contributors:
 - Tatiana Lazebnyk
 - Turker Aslan
 - Priya Kashyap
+- Raj Shah
 
 ### Project Management
 
